@@ -1,4 +1,4 @@
-# cs100s2019-lab4-solution
+# cs100f2019-lab4-solution
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the solution for Laboratory 4 in Computer Science 100.
