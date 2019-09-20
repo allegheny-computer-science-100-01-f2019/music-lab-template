@@ -17,7 +17,6 @@ local.properties
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
 *.zip
@@ -149,7 +148,6 @@ Session.vim
 
 # Package Files #
 #################
-*.jar
 *.war
 *.nar
 *.ear
